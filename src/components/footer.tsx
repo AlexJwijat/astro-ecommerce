@@ -7,9 +7,9 @@ export default function Footer() {
             <div className="copyright text-center text-sm text-muted text-lg-start">
               Copyright ©{" "}
               <script>document.write(new Date().getFullYear())</script>
-              &nbsp;Astro Ecommerce by 
+              &nbsp;Regal Renders by
               <a
-                href="https://www.creative-tim.com"
+                href="https://www.alexjwijat.com"
                 className="text-dark ms-1"
                 target="_blank"
               >
@@ -26,7 +26,7 @@ export default function Footer() {
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
-                  Creative Tim
+                  Alex Hani Jwijat
                 </a>
               </li>
               <li className="nav-item">
@@ -35,7 +35,7 @@ export default function Footer() {
                   className="nav-link text-sm text-muted"
                   target="_blank"
                 >
-                  About Us
+                  About Me
                 </a>
               </li>
               <li className="nav-item">

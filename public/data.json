@@ -1,71 +1,81 @@
 {
   "products": [
     {
-      "id": "01",
-      "thumb_src": "/images/suit-3.jpg",
-      "thumb_alt": "watch-image",
+      "id": "planter-1",
+      "thumb_src": "images/planters/planter-1/1.webp",
+      "thumb_alt": "Elegant beige planter with greenery",
       "images": [
         {
-          "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-          "alt": "first_image"
+          "src": "images/planters/planter-1/1.webp",
+          "alt": "Beige planter with asparagus fern"
         },
         {
-          "src": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
-          "alt": "second_image"
+          "src": "images/planters/planter-1/2.webp",
+          "alt": "Close-up of the planter's layered design"
         },
         {
-          "src": "https://images.unsplash.com/photo-1513116476489-7635e79feb27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
-          "alt": "third_image"
+          "src": "images/planters/planter-1/3.webp",
+          "alt": "Beige planter on a white stand"
         },
         {
-          "src": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-          "alt": "fourth_image"
+          "src": "images/planters/planter-1/4.webp",
+          "alt": "Beige planter with a white background"
+        },
+        {
+          "src": "images/planters/planter-1/5.webp",
+          "alt": "Beige planter on a gray stool"
+        },
+        {
+          "src": "images/planters/planter-1/6.webp",
+          "alt": "Beige planter with delicate green plant"
         }
       ],
-      "color": "8 colors",
+      "color": "Terracotta",
       "colors": [
-        "red", 
-        "blue", 
-        "green"
+        "White", 
+        "Black", 
+        "Beige", 
+        "Green", 
+        "Terracotta", 
+        "Pink", 
+        "Purple", 
+        "Navy Blue"
       ],
-      "title": "Basic Starter Pack",
-      "price": 399,
-      "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "full_description": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out.",
-      "details": "There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn.",
+      "title": "Sculptural Layered Planter",
+      "price": "15.29 - $63.74",
+      "description": "Experience a blend of modern design and nature with our handcrafted planters.",
+      "full_description": "Each Sculptural Layered Planter is a testament to the beauty of functional art. Handmade and 3D printed with precision, these planters are custom-made to fit your style and space. Choose your color and size, and let this planter become a centerpiece that brings a touch of greenery and sophistication to any room.",
+      "details": "Created with eco-friendly materials, our planters are designed for durability and longevity, with a focus on minimal environmental impact.",
       "highlights": [
-        "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
-        "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics",
-        "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+        "Innovative 3D-printed design",
+        "Customizable size and color",
+        "Eco-friendly and durable materials"
       ],
       "features": [
-        "Multiple strap configuration",
-        "Water Resistant",
-        "Stainless strap loops",
-        "Ultra-soft 100% cotton"
+        "Unique layered aesthetic",
+        "Lightweight yet sturdy",
+        "Perfect for indoor plants",
+        "Available in multiple sizes"
       ],
-      "rating": 4,
-      "reviews": 117,
-      "size": "Small",
-      "sizes": {
-        "XS": 3,
-        "S": 0,
-        "M": 1,
-        "L": 1213,
-        "XL": 6
-      },
+      "size": "3\" - 5\" opening",
+      "sizes": [
+        "3\"",
+        "3.5\"",
+        "4\"",
+        "4.5\"",
+        "5\""
+      ],
       "data": {
-        "Features": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you.",
-        "Care": "It really matters and then like it really doesn`t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn`t matter. Because it's about motivating the doers. Because I`m here to follow my dreams and inspire other people to follow their dreams, too.",
-        "Shipping": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?",
-        "Returns": "I always felt like I could do anything. That`s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can`t do anything, you won`t do anything. I was taught I could do everything."
+        "Care": "Each planter is handcrafted with meticulous attention to detail, ensuring a high-quality product that is unique to each customer.",
+        "Shipping": "Enjoy the beauty of handcrafted design with free shipping on all our planters.",
+        "Returns": "We stand behind the quality of our planters with free returns, ensuring your satisfaction with every purchase."
       },
       "featuresDetails": {
-        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
-        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
-        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
+        "Origin": "Designed and crafted with care, our planters embody the spirit of modern artistry.",
+        "Material": "Sourced from sustainable materials, our 3D printing process ensures each planter is as kind to the environment as it is to your home.",
+        "Dimensions": "Tailored to your space, our planters come in various sizes, making them the perfect fit for any plant or room."
       },
-      "stock": true
+      "stock": "Made to order"
     },
     {
       "id": "02",
